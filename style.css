@@ -1,0 +1,74 @@
+body {
+  color: white;
+  background-image: url(https://photy.org/photos/turquoise-background-by-photy.org.jpg);
+  background-size: cover;
+}
+#page2 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyfCWSyCV-pqbhyvnBgKd4-XE8f_S9ugZaFBYcKVin0rMR872GA);
+  background-size: auto;
+}
+.conteneur {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  color: #05FFFF;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+h2 {
+  color: #05FFFF;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+.fieldset1 {
+  font-size: 30px;
+  text-align: center;
+  width: 20%;
+  height: 60%;
+  border-radius: 50px;
+  margin-left: 10%;
+}
+.bouton {
+  float: left;
+  padding-right: 10%;
+  width: 40%;
+  height: 40%;
+  border-radius: 80%;
+  margin-left: 15%;
+  margin-top: 3%;
+}
+.boutoncontact {
+  width: 2%;
+  height: 2%;
+  position: relative;
+}
+.bars {
+  border-radius: 50px;
+  display: inline-flex;
+  width: 40%;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+progress {
+  border-radius: 50px;
+
+}
+.couleurbar::-moz-progress-bar {
+  background-color: orange;
+}
+.couleurbar1::-moz-progress-bar {
+  background-color: green;
+}
+.couleurbar2::-moz-progress-bar {
+  background-color: red;
+}
+progress::-moz-progress-bar  {
+  border-radius: 50px;
+  background-color: white;
+}
+#texte1 {
+
+  }
