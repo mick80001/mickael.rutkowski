@@ -3,10 +3,6 @@ body {
   background-image: url(https://photy.org/photos/turquoise-background-by-photy.org.jpg);
   background-size: cover;
 }
-#page2 {
-  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyfCWSyCV-pqbhyvnBgKd4-XE8f_S9ugZaFBYcKVin0rMR872GA);
-  background-size: auto;
-}
 .conteneur {
   display: flex;
   justify-content: center;
