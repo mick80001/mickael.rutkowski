@@ -65,3 +65,9 @@ progress::-moz-progress-bar  {
   border-radius: 50px;
   background-color: white;
 }
+.imageretour{
+float: right;
+width: 50px;
+height: 50px;
+margin-right: 5%;
+}
